@@ -18,14 +18,8 @@ I'm a **Junior Backend Engineer** with experience in **Golang** and **Java**, an
 - **Software Architecture**: Designing scalable systems
 
 ## 📘 My Projects on GitHub
-### [Go to my main repository: Golang / Java → Rust Journey](https://github.com/yourusername/golang-to-rust)
+### [Go to my main repository: Golang / Java → Rust Journey](https://github.com/WenshuaiDev/rust-learning-journey)
 - **What’s inside**: Learning notes, mistakes, comparisons, mini-projects
-
-### [Sample Project: Rust CLI Tool](https://github.com/yourusername/rust-cli-tool)
-- A simple command-line application written in Rust
-
-### [Sample Project: Go to Rust Comparison](https://github.com/yourusername/go-vs-rust)
-- Comparing Go and Rust code for common backend tasks
 
 ## 📬 How to Reach Me
 - **Email**: wenshuai.dev@gmail.com
