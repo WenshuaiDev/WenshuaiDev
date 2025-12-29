@@ -37,7 +37,7 @@
 - 架构如何从“能跑”走向“能维护”
 
 📂 项目仓库：
-👉 *（仓库创建后补充链接）*
+👉 https://github.com/WenshuaiDev/vector-iot
 
 ---
 
