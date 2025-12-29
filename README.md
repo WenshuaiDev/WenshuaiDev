@@ -1,34 +1,80 @@
-# 👋 Hi, I'm Wenshuai Li
+# 👋 你好，我是 WS在写代码
 
-I'm a **Junior Backend Engineer** with experience in **Golang** and **Java**, and I'm currently transitioning into **Rust**. I'm learning in public and sharing my journey to help others who are also making this switch.
-
-## 🚀 My Learning Journey
-- **Currently learning**: Rust (coming from a Go/Java background)
-- **Goal**: To master Rust and build practical projects
-- **Approach**: Documenting my progress and sharing real learning experiences
-
-## 🛠️ What I'm Working On
-- **Golang / Java to Rust Journey**: Step-by-step transition notes
-- **Learning Resources**: Rust documentation, tutorials, and community insights
-- **Small Projects**: Experimenting with Rust in real-world scenarios
-
-## 🧭 My Focus Areas
-- **Rust**: Syntax, Ownership, Concurrency, WebAssembly
-- **Backend Development**: Golang, Java, Rust
-- **Software Architecture**: Designing scalable systems
-
-## 📘 My Projects on GitHub
-### [Go to my main repository: Golang / Java → Rust Journey](https://github.com/WenshuaiDev/rust-learning-journey)
-- **What’s inside**: Learning notes, mistakes, comparisons, mini-projects
-
-## 📬 How to Reach Me
-- **Email**: wenshuai.dev@gmail.com
-
-## 🚀 Fun Facts
-- I'm always trying to learn new things and improve my coding skills
-- I share my journey and mistakes to help other junior developers
-
-## 🎯 Looking to Connect
-If you're a fellow Rust learner, developer, or enthusiast, feel free to reach out! I love connecting with like-minded individuals to discuss development practices, challenges, and cool projects.
+🚧 一名正在成长中的后端工程师  
+🦀 Golang / Java → Rust 转型记录者  
+🏗️ 正在用 **纯 Rust** 从 0 构建一个物联网数据中台（IoT Platform）
 
 ---
+
+## 🧠 我是谁？
+
+- 🎯 当前阶段：**初级后端工程师**
+- 💼 背景：工程体系 / 后端开发
+- 🔁 技术路径：Golang / Java → Rust
+- 🧱 兴趣方向：系统设计、工程结构、基础能力打磨
+
+我不做“速成教程”，  
+也不假装自己已经是专家。
+
+我只是在把 **一个普通工程师真实成长的过程** 认真记录下来。
+
+---
+
+## 🚀 我正在做什么？
+
+### 🏗️ Rust IoT 数据中台（主线项目 · 进行中）
+
+我正在尝试：
+
+- 使用 **Rust 标准库为主**
+- 尽量减少第三方依赖
+- 从工程视角构建一个 **可运行、可演进的 IoT 中台 MVP**
+
+关注点包括：
+
+- 模块边界如何拆
+- 数据如何流转
+- 架构如何从“能跑”走向“能维护”
+
+📂 项目仓库：
+👉 *（仓库创建后补充链接）*
+
+---
+
+## 📚 我在这里记录什么？
+
+- 📝 Rust 学习过程中的真实理解与踩坑
+- 🔍 从 Golang / Java 思维转向 Rust 的认知变化
+- 🔁 为什么某些设计一开始“看起来对”，后来却推翻重来
+- 🧱 从「能写代码」到「写得像工程」的转变
+
+这些内容**不保证都是最佳实践**，  
+但保证都是真实思考的结果。
+
+---
+
+## 🌱 为什么要做这些记录？
+
+我希望未来的自己回头看时：
+
+- 能看清自己是怎么走到下一阶段的
+- 能复盘当初做过的错误选择
+
+如果这些记录**恰好**能帮到  
+正在学习 Rust、或正在成长中的你，那就更好了。
+
+---
+
+## 🤝 交流
+
+如果你也在学习：
+
+- Rust
+- 后端工程化
+- IoT / 中台系统
+
+欢迎一起交流、讨论、互相纠错。
+
+## 📧 联系方式
+- email：wenshuai.dev@gmail.com
+- qq: 979120024
