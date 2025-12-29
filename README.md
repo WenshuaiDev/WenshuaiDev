@@ -51,6 +51,9 @@
 这些内容**不保证都是最佳实践**，  
 但保证都是真实思考的结果。
 
+Rust 学习记录（真实踩坑与思考）
+👉 https://github.com/WenshuaiDev/rust-learning-journey
+
 ---
 
 ## 🌱 为什么要做这些记录？
