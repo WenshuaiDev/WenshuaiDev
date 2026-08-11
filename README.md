@@ -6,9 +6,11 @@ I turn product ideas into maintainable software—from domain modeling and archi
 
 ## Current focus
 
-### WorkMemory
+### StateArc
 
-I am building an open-source personal work memory and context layer for people and AI agents.
+**Your work, carried forward.**
+
+I am building StateArc, an open-source, user-owned continuity layer for people and AI agents.
 
 The goal is to carry reliable work context across tools and models while keeping memory:
 
